@@ -1,0 +1,15 @@
+format 20mb
+mkdir slozka1
+cd slozka1
+mkdir slozka2
+cd slozka2
+mkdir slozka3
+pwd
+incp testik.txt ./testik.txt
+incp testik2.txt ./testik2.txt
+rm ./testik.txt
+incp testik3.txt ./testik3.txt
+incp testik.txt ./testik.txt
+incp testik4.txt ./testik4.txt
+rm ./testik.txt
+incp testik5.txt ./testik5.txt
